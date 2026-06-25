@@ -1,0 +1,7 @@
+company_id,company_name,profit_loss_records,balance_sheet_records,cashflow_records,status
+HEROMOTOCO,"Hero MotoCorp Ltd
+",12,12,11,PASS
+CANBK,Canara Bank,13,12,12,PASS
+JSWENERGY,JSW Energy Ltd,13,13,12,PASS
+PNB,Punjab National Bank,13,60,12,PASS
+ABB,Abbott India Ltd,13,13,23,PASS
