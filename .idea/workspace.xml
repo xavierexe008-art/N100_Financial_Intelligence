@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6431f71f-480c-4ea3-9ffa-70cf20423e47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/N100_Financial_Intelligence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/N100_Financial_Intelligence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etl/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/etl/loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etl/normaliser.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/etl/normaliser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/analysis.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/analysis.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/balancesheet.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/balancesheet.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/cashflow.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/cashflow.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/companies.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/companies.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/documents.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/documents.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/financial_ratios.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/financial_ratios.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/market_cap.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/market_cap.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/peer_groups.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/peer_groups.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/profitandloss.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/profitandloss.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/prosandcons.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/prosandcons.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/sectors.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/sectors.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/stock_prices.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/stock_prices.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etl/validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/etl/validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.loader.executor&quot;: &quot;Run&quot;,
-    &quot;Python.normaliser.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.loader.executor": "Run",
+    "Python.normaliser.executor": "Run",
+    "Python.validator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

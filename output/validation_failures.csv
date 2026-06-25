@@ -1,0 +1,2 @@
+Dataset,Rule,Severity,Details
+financial_ratios.xlsx,DQ-02 Duplicate Company-Year,CRITICAL,1092
